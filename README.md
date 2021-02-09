@@ -24,3 +24,11 @@ GitHub basically is an online repository of all of your code. It is one of the m
 GitHub pages makes it so that you can have a static webpage on the internet that's hosted by GitHub pages. At first it may be a little bit of a learning curve, but once you get the hang of it, it can be really useful for quick projects!
 
 You can read more about GitHub Pages here [https://pages.github.com/]!
+
+#### Command Line Useful Commands
+This command will save your work and commit it to GitHub
+```
+git add .
+git commit -a -m "MESSAGE"
+git push
+```
