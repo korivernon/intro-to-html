@@ -19,3 +19,6 @@ GitHub basically is an online repository of all of your code. It is one of the m
 
 - You can open any project on GitHub and see its source code to see how it runs.
 - For starters, we are just going to clone some of my [https://korivernon.com/github] repositories and run them on your computer. You can change them and get an understanding of how it works!
+
+### GitHub Pages
+GitHub pages makes it so that you can have a static webpage on the internet that's hosted by GitHub pages. At first it may be a little bit of a learning curve, but once you get the hang of it, it can be really useful for quick projects!
