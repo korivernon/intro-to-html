@@ -13,3 +13,9 @@ You have to install a code editor so that you can edit your code! The easiest ed
 - Prettier
 
 3. Now let's make our `hello_world.html` file!
+
+## GitHub is AWESOME
+GitHub basically is an online repository of all of your code. It is one of the most useful tools programmers have access to, and it serves as our "portfolio" in which everyone can see and have access to and use our code! It's pretty awesome!
+
+- You can open any project on GitHub and see its source code to see how it runs.
+- For starters, we are just going to clone some of my [https://korivernon.com/github] repositories and run them on your computer. You can change them and get an understanding of how it works!
