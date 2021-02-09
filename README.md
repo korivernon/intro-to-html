@@ -4,6 +4,7 @@ Simple HTML Web Programming Tutorial
 ## First Thing's First
 You have to install a code editor so that you can edit your code! The easiest editor to install that will be able to handle basic operations is Visual Studio Code. It is available here[https://code.visualstudio.com/].
 
+## Working Steps
 1. After you have Visual Studio Code installed, get a basic understanding of your coding environment. It can be a little intimidating but learn a little bit about where things are! It can help you a bunch!
 
 2. Let's install packages that will help us
